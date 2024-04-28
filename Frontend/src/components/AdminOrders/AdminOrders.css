@@ -1,0 +1,24 @@
+.admin-order-table {
+    width: 100%; /* Ensure the table fills the available space */
+    border-collapse: collapse; /* Remove default table spacing */
+    margin: 0 auto; /* Center the table horizontally */
+  }
+  
+  .admin-order-table th,
+  .admin-order-table td {
+    border: 1px solid #ddd; /* Add borders for all cells */
+    padding: 10px; /* Add some padding for readability */
+    text-align: left; /* Align content to the left */
+
+  }
+  .admin-order-table td {
+    width: 150px;
+    /* Other styles as needed */
+  }
+  
+  .admin-order-table th {
+    background-color: #f2f2f2; /* Light background for headers */
+    font-weight: bold; /* Bold text for headers */
+  }
+  
+ 
